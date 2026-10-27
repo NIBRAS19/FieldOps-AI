@@ -1,0 +1,1 @@
+import{d as c,c as s,b as t,t as a,i as l,M as d,o}from"./index-CAkZUqi9.js";const i={class:"pagehead"},r={key:0,class:"muted"},u={class:"actions"},h=c({__name:"PageHead",props:{title:{},sub:{}},setup(e){return(n,m)=>(o(),s("div",i,[t("div",null,[t("h1",null,a(e.title),1),e.sub?(o(),s("p",r,a(e.sub),1)):l("",!0)]),t("div",u,[d(n.$slots,"default")])]))}});export{h as _};
